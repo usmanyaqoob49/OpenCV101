@@ -1,2 +1,2 @@
 # OpenCV101
-hello world
+Image and Video Processing using OpenCV.
