@@ -5,4 +5,4 @@ Image and Video Processing using OpenCV.
 3. Image Manipulation functions like selcting specific pixels, cropping etc.
 4. Drawing Lines, Rectanlge, Circle and putting text on images.
 5. Seeing Parts of Images in Warp Perspective.
-   
+6. Joining different images horizontally and vertically.
